@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+  }
+  
+  #main{
+    width: 100%;
+    
+  }
+  
+  #title{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    flex-wrap: wrap;
+    font-family: Tahoma, sans-sherif;
+  }
+  
+  #img-div{
+    width: 60vw;
+    height: auto;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  #img-caption{
+    display: block;
+    font-family: -apple-system, Verdana, sans-sherif;
+  
+  }
+  
+  #image{
+    max-width: 100%;
+    min-width: 80%
+  }
+  #tribute-info{
+    width: 60vw;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: -apple-system, Verdana, sans-sherif;
+  background-color: #e6fcf8;
+    
+  }
+  
+  #link{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+    font-family: -apple-system, Verdana, sans-sherif;
+    font-weight: bold;
+  
+  }
+  
+  li{
+    margin: 18px 0;
+  }
+  p{
+    padding-bottom: 10px;
+  }
+  
+  body{
+    background-color: #ecede1;
+  }
+  #bold{
+    padding: 0 5px;
+  }
+  
